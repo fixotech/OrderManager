@@ -1,19 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{627CA531-F63E-4AD7-B7B4-98D723B8E499}|API\\API.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627CA531-F63E-4AD7-B7B4-98D723B8E499}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6120CA5-E156-4861-A694-73131C10A15C}|Infrastructure\\Infrastructure.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6120CA5-E156-4861-A694-73131C10A15C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6120CA5-E156-4861-A694-73131C10A15C}|Infrastructure\\Infrastructure.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6120CA5-E156-4861-A694-73131C10A15C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627CA531-F63E-4AD7-B7B4-98D723B8E499}|API\\API.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\api\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627CA531-F63E-4AD7-B7B4-98D723B8E499}|API\\API.csproj|solutionrelative:api\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588A292-0D48-4F34-8D69-5E2014A7E968}|Core\\Core.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\core\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F588A292-0D48-4F34-8D69-5E2014A7E968}|Core\\Core.csproj|solutionrelative:core\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588A292-0D48-4F34-8D69-5E2014A7E968}|Core\\Core.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F588A292-0D48-4F34-8D69-5E2014A7E968}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6120CA5-E156-4861-A694-73131C10A15C}|Infrastructure\\Infrastructure.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6120CA5-E156-4861-A694-73131C10A15C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588A292-0D48-4F34-8D69-5E2014A7E968}|Core\\Core.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F588A292-0D48-4F34-8D69-5E2014A7E968}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627CA531-F63E-4AD7-B7B4-98D723B8E499}|API\\API.csproj|f:\\projetos\\asp.net\\ordermanager\\backend\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{627CA531-F63E-4AD7-B7B4-98D723B8E499}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 220,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:55:14.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Infrastructure\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CustomerService.cs",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Infrastructure\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:46:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T10:45:24.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Core\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IOrderService.cs",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Core\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:43:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Core\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Core\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:41:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Core",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T10:39:57.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:28:21.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Query.cs",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\API\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "API\\GraphQL\\Query.cs",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\API\\GraphQL\\Query.cs",
+              "RelativeToolTip": "API\\GraphQL\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:45:08.231Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Projetos\\ASP.NET\\OrderManager\\Backend\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T10:01:20.188Z",
+              "EditorCaption": ""
             }
           ]
         }
