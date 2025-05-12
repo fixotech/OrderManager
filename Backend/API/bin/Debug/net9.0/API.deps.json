@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "API/1.0.0": {
         "dependencies": {
+          "GraphQL.Server.Ui.Voyager": "8.2.0",
           "HotChocolate.AspNetCore": "15.1.3",
           "HotChocolate.Data": "15.1.3",
           "Infrastructure": "1.0.0",
@@ -25,6 +26,14 @@
           "lib/net9.0/ChilliCream.Nitro.App.dll": {
             "assemblyVersion": "26.0.0.0",
             "fileVersion": "26.0.4.0"
+          }
+        }
+      },
+      "GraphQL.Server.Ui.Voyager/8.2.0": {
+        "runtime": {
+          "lib/net8.0/GraphQL.Server.Ui.Voyager.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
           }
         }
       },
@@ -678,6 +687,13 @@
       "sha512": "sha512-6QCh4e9ydrtbIKeKXUcmc6T87iIb4chD+NG5lk2fVPx5QU6ul8jxaTft8+zPERAry7bjshrOLf/sO+K5QIpD0w==",
       "path": "chillicream.nitro.app/26.0.4",
       "hashPath": "chillicream.nitro.app.26.0.4.nupkg.sha512"
+    },
+    "GraphQL.Server.Ui.Voyager/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sCJpTY85tvyMEgPjGodEGaULehVnPx3/iBXDNjl8vIus1FmwUPPNgRRkVJ6FNO7OiIR6gfoIfNfpnU9zdJEgVg==",
+      "path": "graphql.server.ui.voyager/8.2.0",
+      "hashPath": "graphql.server.ui.voyager.8.2.0.nupkg.sha512"
     },
     "GreenDonut/15.1.3": {
       "type": "package",

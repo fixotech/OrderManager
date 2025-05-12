@@ -18,14 +18,14 @@ namespace Infrastructure.Services
 
         public IQueryable<Order> GetOrders()
         {
-            using (var context = _contextFactory.CreateDbContext())
-            {
-                context.Database.EnsureCreated();
-                return context.Orders
-                    .Where(o => !o.IsDeleted)
-                    .Include(o => o.Customer);
+            OMAContext context = _contextFactory.CreateDbContext();
 
-            }
+            context.Database.EnsureCreated();
+            return context.Orders
+                .Where(o => !o.IsDeleted)
+                .Include(o => o.Customer);
+
+
         }
     }
 }

@@ -8,6 +8,7 @@ namespace Infrastructure.Services
     public class CustomerService : ICustomerService
     {
         private readonly IDbContextFactory<OMAContext> _contextFactory;
+
         public CustomerService(IDbContextFactory<OMAContext> contextFactory)
         {
             _contextFactory = contextFactory;
@@ -15,14 +16,14 @@ namespace Infrastructure.Services
 
         public IQueryable<Customer> GetCustomersAndOrders()
         {
-            using (var context = _contextFactory.CreateDbContext())
-            {
-                context.Database.EnsureCreated();
-                return context.Customers
-                    .Where(c => !c.IsDeleted)
-                    .Include(c => c.Orders)
-                    .Include(c => c.Address);
-            }
+            OMAContext context = _contextFactory.CreateDbContext();
+            context.Database.EnsureCreated();
+
+            return context.Customers
+                .Where(c => !c.IsDeleted)
+                .Include(c => c.Orders)
+                .Include(c => c.Address);
+
         }
     }
 }

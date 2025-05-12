@@ -75,10 +75,12 @@ F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\staticwebassets.bu
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\staticwebassets.build.json.cache
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\staticwebassets.development.json
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\API.csproj.Up2Date
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\API.dll
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\refint\API.dll
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\API.pdb
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\ref\API.dll
+F:\Projetos\ASP.NET\OrderManager\Backend\API\bin\Debug\net9.0\GraphQL.Server.Ui.Voyager.dll
+F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos\ASP.NET\OrderManager\Backend\API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
